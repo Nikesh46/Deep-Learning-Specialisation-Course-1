@@ -1,1 +1,1 @@
-# Deep-Learning-Specialisation-Course-1
+# Deep-Learning-Specialisation-Coursera
